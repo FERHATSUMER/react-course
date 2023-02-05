@@ -1,0 +1,15 @@
+.person{
+    border:2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 24px;
+    gap:12px;
+    background-color: #bfc5cd;
+}
+.person-img{
+    width: 200px;
+    height: 200px;
+
+}

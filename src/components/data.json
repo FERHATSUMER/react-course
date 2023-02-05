@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "name":"Ferhat",
+        "job":"Frontend-Developer",
+        "about":"Hello, I am Ferhat I am studying at Yalova University.",
+        "img":"assets/ferhat.jpg"
+    },
+    {
+        "id":2,
+        "name":"Serkan",
+        "job":"Lawyer",
+        "about":"Hello, I am Serkan I am studying at Ankara University",
+        "img":"assets/serkan.png"
+    },
+    {
+        "id":3,
+        "name":"Erkan",
+        "job":"Lawyer",
+        "about":"Hello, I am Erkan I am studying at Koc University.",
+        "img":"assets/erkan.png"
+    }
+]
